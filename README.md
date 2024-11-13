@@ -1,6 +1,6 @@
 # Liver Tumors Segmentation-CNNs
 This project segments tumors in the Liver using 2 cascaded CNNs. We use [3D-IRCADb 01](https://www.ircad.fr/research/3d-ircadb-01/) as our dataset.
-View the [Thesis](https://drive.google.com/file/d/1UpkakPGMc2Cvtik6IEs9TqxjxvW4n9Up/view?usp=sharing) for more details about the model, dataset, methodology and results.
+View the [Thesis](https://drive.google.com/drive/folders/1EorGrTfvjoZNa_utgOUg-yY1JFOVeiHt?usp=drive_link) for more details about the model, dataset, methodology and results.
 
 
 There are 3 notebooks in this project
